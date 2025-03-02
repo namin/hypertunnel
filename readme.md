@@ -200,7 +200,7 @@ It's doing what it says on the tin. Certain things could be improved and battle-
 
 The CLI interface is stable, but programmatic usage comes with no warranty as internals might change in the future (the internals are also not properly documented currently).
 
-Have a look at the [tests](/test/) to get an idea of how to use hypertunnel programmatically.
+Have a look at the [tests](packages/hypertunnel/test/) to get an idea of how to use hypertunnel programmatically.
 
 Given that there is no alternative to hypertunnel I figured I'd rather release it early. :-)
 
